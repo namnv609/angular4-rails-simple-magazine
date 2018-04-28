@@ -17,3 +17,7 @@
 
 /config/database.yml
 /config/secrets.yml
+
+# For Angular 4
+/public/*.bundle.*
+/public/assets
