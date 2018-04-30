@@ -21,3 +21,4 @@
 # For Angular 4
 /public/*.bundle.*
 /public/assets
+/public/glyphicons-halflings-regular*
