@@ -14,6 +14,7 @@ group :development, :test do
   gem "pry-rails"
   gem "pry-byebug"
   gem "better_errors"
+  gem "faker"
 end
 
 group :development do
